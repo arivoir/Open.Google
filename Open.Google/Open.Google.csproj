@@ -4,6 +4,7 @@
     <TargetFramework>netstandard1.3</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Alvaro Rivoir</Authors>
+    <Description>.Net Standard Google authentication library for services like GoogleDrive, GooglePhotos and Youtube</Description>
   </PropertyGroup>
 
   <ItemGroup>
